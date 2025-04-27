@@ -1,7 +1,18 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-    cout<<"hello world fixed try 2, try 3,try 4";
+
+void returnByAddress(int *p) {
+    *p = 10; 
+}
+
+int main() {
+    int num = 5;
+
+    cout << "Before function call: " << num << endl;
+
+    returnByAddress(&num);
+
+    cout << "After function call: " << num << endl;
+
     return 0;
 }
