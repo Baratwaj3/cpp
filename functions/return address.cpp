@@ -6,7 +6,6 @@ int* fun (int size)
     for(int i=0;i<size;i++)
     {
         p[i]=i+1;
-       
     }
      return p;
 }
@@ -17,6 +16,13 @@ int main ()
     {
          cout<<ptr[i]<<endl;
     }
-   
     return 0;
 }
+//output:
+//    1
+//    2
+//    3
+//    4
+//    5
+
+
