@@ -1,19 +1,25 @@
 #include <iostream>
 using namespace std;
-
-int& returnByReference(int &num) {
-    num = 20;  
-    return num; 
+int& fun (int& add)
+{
+     add= 10+add;
+    return add;
 }
-
-int main() {
-    int value = 10;
-
-    cout << "Before function call: " << value << endl;
-
-    returnByReference(value);
-
-    cout << "After function call: " << value << endl;
-
+int main ()
+{
+    int x= 5;
+    cout<<"before change: "<<x<<endl;
+    int input= fun(x);
+    cout<< "after change:"<<input;
     return 0;
 }
+
+//output:
+//    before change: 5
+//    after change:15
+
+
+
+
+
+
