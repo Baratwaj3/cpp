@@ -1,19 +1,19 @@
 #include <iostream>
 using namespace std;
 
-void scope(int n)
+void function(int n)
 
   {
       if(n>0)
       {
           cout<<n<<endl;
-          scope (n-1); // recursive function 
+          function (n-1); // recursive function 
       }
   }
   int main ()
   {
       int x=5;
-      scope (x);
+      function (x);
       return 0;
   }
 
