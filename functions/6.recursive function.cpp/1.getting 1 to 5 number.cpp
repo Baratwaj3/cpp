@@ -6,8 +6,9 @@ void scope(int n)
   {
       if(n>0)
       {
-          cout<<n<<endl;
-          scope (n-1); // recursive function 
+          scope (n-1);// recursive function
+          cout<<n<<endl; 
+          
       }
   }
   int main ()
@@ -18,9 +19,9 @@ void scope(int n)
   }
 
 //output :
-//  1
-//  2
-//  3
-//  4
-//  5
+//    1
+//    2
+//    3
+//    4
+//    5
 
