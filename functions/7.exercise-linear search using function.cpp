@@ -1,43 +1,44 @@
 #include <iostream>
 using namespace std;
- int search (int A[] , int num , int k)
- {
-     for (int i =0; i<=num ; i++)
-     {
-        if( k==A[i])
-         return i ;
-     }
+int search(int A[], int num, int k)
+{
+    for (int i = 0; i < num; i++)
+    {
+
+        if (k == A[i])
+            return i;
+    }
+    return -1;
+}
+int main()
+{
+    int num;
+
+    cout << "Enter the number of elements" << endl;
+    cin >> num;
+
+    int A[num];
+
+    cout << "Enter " << num << " to search" << endl;
+    for (int i = 0; i < num; i++)
+    {
+        cin >> A[i];
+    }
+
+    int k;
+    cout << "Enter the number to be searched :" << endl;
+    cin >> k;
+
+    int index = search(A, num, k);
+
+    if (index > -1)
+        cout << "The number is found at the index :" << index << endl;
+    else
+        cout << "The number is not found" << endl;
+
     return 0;
- }
- int main()
- {
-     int num;
-     
-     cout<<"Enter the number of elements"<<endl;
-     cin>>num;
-     
-     int A[num] ;
-     
-     cout<<"Enter"<<" "<<num<<" "<<"to search"<<endl;
-     for (int i=0; i<num; i++)
-     {
-         cin >>A[i];
-     }
-     
-     int k;
-     cout<<"Enter the number to be searched :"<<endl;
-     cin>>k;
-     
-     int index = search (A,6,k);
-     
-     if (index!=0)
-     cout<<"The number is found at the index :"<< index<<endl;
-     else
-     cout<<"The number is not found"<<endl;
-     
-     return 0;
-     }
-     
+}
+
 //   output 1:
 //     Enter the number of elements
 //     3
@@ -59,8 +60,3 @@ using namespace std;
 //     Enter the number to be searched :
 //     9
 //     The number is not found
-
-
-
-    
- 
