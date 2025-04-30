@@ -1,15 +1,21 @@
 #include <iostream>
 using namespace std;
-int sample(int a, int b)
+void swap(int a, int b)
 {
-    int c = a + b;
-    return c;
+    int temp = b;
+    b = a;
+    a = temp;
 }
 int main()
 {
-    int x = sample(5, 6);
-    cout << x << endl;
+    int a = 5, b = 6;
+    swap(a, b);
+    cout << a << "\n"<< b << endl;
+    return 0;
 }
 
 // output:
-//    11
+//    5
+//    6
+
+// Here the does not swaped because it deals 2with the copy that actual value
