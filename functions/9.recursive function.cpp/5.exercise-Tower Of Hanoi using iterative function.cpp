@@ -18,13 +18,11 @@ void moveDisk(char from, char to, stack<int>& src, stack<int>& dest) {
 void towerOfHanoiIterative(int n, char srcRod, char destRod, char auxRod) {
     stack<int> src, dest, aux;
 
-    // Load all disks onto source rod, largest disk at bottom
     for (int i = n; i >= 1; i--)
         src.push(i);
 
     int totalMoves = (1 << n) - 1; // 2^n - 1
 
-    // Swap destination and auxiliary for even number of disks
     if (n % 2 == 0)
         swap(destRod, auxRod);
 
