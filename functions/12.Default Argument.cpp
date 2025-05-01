@@ -12,3 +12,8 @@ int main()
     cout << a << "\n"<< b << "\n"<< c << endl;
     return 0;
 }
+
+// output:
+//     2
+//     5
+//     9
