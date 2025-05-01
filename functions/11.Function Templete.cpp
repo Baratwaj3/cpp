@@ -12,3 +12,7 @@ int main()
     cout << a << "\n"<< b << endl;
     return0;
 }
+
+//output:
+//    5
+//    4.87
