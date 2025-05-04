@@ -27,11 +27,13 @@ int main() {
     return 0;
 }
 
-// output :
-//   Getting  global variable before changes: 10
-//   Adding global variable with a : 15
-//   accessing the global variable anywhere in the code: 10
-//   Getting gloable variable when it is hide by local variable in   this block : 10
-//   Local to the block: 21
-//   Getting  global variable after changes: 10
+/*
+output :
+   Getting  global variable before changes: 10
+   Adding global variable with a : 15
+   accessing the global variable anywhere in the code: 10
+   Getting gloable variable when it is hide by local variable in   this block : 10
+   Local to the block: 21
+   Getting  global variable after changes: 10
+*/   
 
