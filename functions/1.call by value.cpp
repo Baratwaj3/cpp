@@ -14,8 +14,8 @@ int main()
     return 0;
 }
 
-// output:
-//    5
-//    6
-
-// Here the does not swaped because it deals with the copy that actual value
+/* output:
+    5
+    6
+    Here the does not swaped because it deals with the copy that actual value
+ */
