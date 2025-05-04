@@ -14,10 +14,11 @@ int main ()
     return 0;
 }
 
-//output:
-//    before change: 5
-//    after change:15
-
+/*
+output:
+    before change: 5
+    after change:15
+*/
 
 
 
