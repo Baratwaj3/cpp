@@ -18,6 +18,7 @@ int main() {
     scope();
     return 0;
 }
-//output:
-//    incrementing local variable : 21
-//    incrementing global variable : 11
+/*output:
+    incrementing local variable : 21
+    incrementing global variable : 11
+*/
