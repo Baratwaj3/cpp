@@ -17,11 +17,11 @@ int main ()
    cout<< a <<"\n"<< b <<endl;
    return 0;
 }
-//output :
-//   6
-//   5
+/*output :
+   6
+   5
 
-//Here &a and &b are referedd to actual value a and b if ther is any changes in &a and &b it is also changed in a and b because it is sharing address with a and b
-
+   Here &a and &b are referedd to actual value a and b if ther is any changes in &a and &b it is also changed in a and b because it is sharing address with a and b
+*/
 
 
