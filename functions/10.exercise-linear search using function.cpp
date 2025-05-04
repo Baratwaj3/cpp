@@ -39,24 +39,25 @@ int main()
     return 0;
 }
 
-//   output 1:
-//     Enter the number of elements
-//     3
-//     Enter 3 to search
-//     1
-//     2
-//     3
-//     Enter the number to be searched :
-//     3
-//     The number is found at the index :2
+/*   output 1:
+     Enter the number of elements
+     3
+     Enter 3 to search
+     1
+     2
+     3
+     Enter the number to be searched :
+     3
+     The number is found at the index :2
 
-//   output 2:
-//     Enter the number of elements
-//     3
-//     Enter 3 to search
-//     3
-//     2
-//     1
-//     Enter the number to be searched :
-//     9
-//     The number is not found
+   output 2:
+     Enter the number of elements
+     3
+     Enter 3 to search
+     3
+     2
+     1
+     Enter the number to be searched :
+     9
+     The number is not found
+*/
