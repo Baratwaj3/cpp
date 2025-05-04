@@ -17,8 +17,9 @@ int main()
          << b << endl;
     return 0;
 }
-// output :
-//    6
-//    5
+/* output :
+    6
+    5
 
-// Here the fuenction does not return anything it just modifies the value by using pointers in the memory
+    Here the fuenction does not return anything it just modifies the value by using pointers in the memory
+*/
