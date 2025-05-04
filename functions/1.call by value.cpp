@@ -18,4 +18,4 @@ int main()
 //    5
 //    6
 
-// Here the does not swaped because it deals 2with the copy that actual value
+// Here the does not swaped because it deals with the copy that actual value
