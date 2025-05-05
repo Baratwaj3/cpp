@@ -13,7 +13,8 @@ int main()
     return 0;
 }
 
-// output:
-//     2
-//     5
-//     9
+/* output:
+     2
+     5
+     9
+*/
