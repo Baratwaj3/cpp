@@ -17,10 +17,10 @@ void function(int n)
       return 0;
   }
 
-//output :
-//  5
-//  4
-//  3
-//  2
-//  1
-
+/*output :
+  5
+  4
+  3
+  2
+  1
+*/
