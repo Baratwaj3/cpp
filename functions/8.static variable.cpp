@@ -17,7 +17,8 @@ int main() {
     return 0;
 }
 
-//output :
-//   6 
-//   7 
-//   8 
+/*output :
+   6 
+   7 
+   8
+*/ 
