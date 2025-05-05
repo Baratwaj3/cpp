@@ -17,5 +17,6 @@ int main ()
     return 0 ;
 }
 
-//output :
-//     120
+/*output :
+     120
+*/
