@@ -13,6 +13,7 @@ int main()
     return0;
 }
 
-//output:
-//    5
-//    4.87
+/*output:
+    5
+    4.87
+*/
