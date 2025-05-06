@@ -17,6 +17,6 @@ int main() {
 
 /*
 Output:
-Sum of integers: 15
-Sum of doubles: 7.8
+    Sum of integers: 15
+    Sum of doubles: 7.8
 */
