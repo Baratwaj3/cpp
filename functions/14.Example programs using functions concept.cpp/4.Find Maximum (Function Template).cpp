@@ -14,6 +14,6 @@ int main() {
 
 /*
 Output:
-Max of 3 and 7: 7
-Max of 4.5 and 2.1: 4.5
+    Max of 3 and 7: 7
+    Max of 4.5 and 2.1: 4.5
 */
