@@ -14,5 +14,7 @@ int main() {
 }
 
 
-//Output:
-//    Factorial of 5 is 120
+/*
+Output:
+    Factorial of 5 is 120
+*/
