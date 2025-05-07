@@ -12,5 +12,4 @@ int main() {
 
 /*
 Concatenated string: Hello, World!
-
 */
