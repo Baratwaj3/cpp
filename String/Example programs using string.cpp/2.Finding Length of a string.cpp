@@ -9,5 +9,4 @@ int main() {
 }
 /*
 Length of string: 10
-
 */
