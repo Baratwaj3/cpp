@@ -14,5 +14,4 @@ int main() {
 }
 /*
 madam is a palindrome.
-
 */
