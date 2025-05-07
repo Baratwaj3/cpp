@@ -11,5 +11,4 @@ int main() {
 }
 /*
 Reversed string: gnireenignE
-
 */
