@@ -9,7 +9,7 @@ int main()
     char s2;
     cout << "Enter target string: ";
     cin >> s2;
-    char *x;
+    char *x;          // search target from left to right
     x = strchr(s1, s2);
     if (x != NULL)
         cout << "First occuring of target word is : " << x << endl;
