@@ -10,10 +10,11 @@ int main()
     int x;
     cout << "Enter the how many char want to be copied: " << endl;
     cin >> x;
-    char *z = strncpy(A, B, x);
-    cout << "result: " << z << endl;
+    strncpy(A, B, x);
+    cout << "result: " << A << endl;
     return 0;
 }
+
 /*
 output:
 
