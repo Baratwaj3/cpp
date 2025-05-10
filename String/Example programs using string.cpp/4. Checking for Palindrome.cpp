@@ -2,11 +2,12 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string str = "madam";
     string rev = string(str.rbegin(), str.rend());
-    
-    if(str == rev)
+
+    if (str == rev)
         cout << str << " is a palindrome." << endl;
     else
         cout << str << " is not a palindrome." << endl;
