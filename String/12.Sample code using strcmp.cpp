@@ -1,19 +1,20 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-int main() {
-  char s1[50] ;
-  cout<<"Enter a string: ";
-  cin>>s1;
+int main()
+{
+  char s1[50];
+  cout << "Enter a string: ";
+  cin >> s1;
   char s2[50];
-  cout<<"Enter target string: ";
-  cin>>s2;
+  cout << "Enter target string: ";
+  cin >> s2;
   int x;
-  //If s1 is greater return (+), if s2 is greater return (-), if both ar same return (0)
-  x=strcmp(s1,s2); 
+  // If s1 is greater return (+), if s2 is greater return (-), if both ar same return (0)
+  x = strcmp(s1, s2);
   // returns difference in two string first char ASCII values
-  cout<<"result : "<<x<<endl; 
-    return 0;
+  cout << "result : " << x << endl;
+  return 0;
 }
 
 /*
