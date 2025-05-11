@@ -31,6 +31,7 @@ int main()
 
 /*
 output :
+
    Getting  global variable before changes: 10
    Adding global variable with a : 15
    accessing the global variable anywhere in the code: 10
