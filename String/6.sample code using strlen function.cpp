@@ -9,5 +9,7 @@ int main()
     return 0;
 }
 /*
+output:
+
 The length of the string is 5
 */
