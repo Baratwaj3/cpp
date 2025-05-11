@@ -12,5 +12,7 @@ int main()
 }
 
 /*
+output:
+
 Concatenated string: Hello, World!
 */
