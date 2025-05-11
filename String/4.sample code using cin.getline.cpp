@@ -14,6 +14,8 @@ int main()
     return 0;
 }
 /*
+output:
+
 Enter your name
 Baratwaj
 Welcome Baratwaj
