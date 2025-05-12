@@ -14,6 +14,8 @@ int main()
     return 0;
 }
 /*
+output: 
+
 Full concatenation: hellowelcome
 Partial concatenation (3 chars): hellowel
 */
