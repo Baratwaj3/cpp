@@ -10,5 +10,7 @@ int main()
     return 0;
 }
 /*
+output: 
+
 copying s2 in s1: welcome
 */
