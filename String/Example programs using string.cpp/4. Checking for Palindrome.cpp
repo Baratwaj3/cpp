@@ -14,5 +14,7 @@ int main()
     return 0;
 }
 /*
+output: 
+
 madam is a palindrome.
 */
