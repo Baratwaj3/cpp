@@ -21,6 +21,8 @@ int main()
 }
 
 /*
+output: 
+
 Number of vowels: 4
 
 */
