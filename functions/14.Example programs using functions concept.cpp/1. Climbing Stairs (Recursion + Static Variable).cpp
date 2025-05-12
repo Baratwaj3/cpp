@@ -16,5 +16,6 @@ int main() {
 
 /*
 Output:
+
    Ways to climb 5 steps: 8
 */
