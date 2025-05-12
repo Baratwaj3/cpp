@@ -18,5 +18,6 @@ int main ()
 }
 
 /*output :
+
      120
 */

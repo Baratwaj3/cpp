@@ -29,6 +29,7 @@ int main()
 }
 /*
 output:
+
      Enter the number of disk: 3
      Move disk 1 from rod A to C
      Move disk 2 from rod A to B
