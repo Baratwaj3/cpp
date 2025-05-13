@@ -11,6 +11,7 @@ int main()
     return 0;
 }
 /*output:
+
 Integer value : 324.3
 Integer after added: 325.3
 */
