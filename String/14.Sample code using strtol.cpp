@@ -12,3 +12,9 @@ int main() {
     }
 
    
+/*
+output:
+Integer value : 324
+Integer after added: 325
+
+*/
