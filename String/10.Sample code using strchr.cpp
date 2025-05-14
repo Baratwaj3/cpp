@@ -20,11 +20,13 @@ int main()
 
 /*
 output_1:
+
 Enter a string: programming
 Enter target char: r
 First occuring of target word is : rogramming
 
 output_2:
+
 Enter a string: programming
 Enter target char: l
 not found
