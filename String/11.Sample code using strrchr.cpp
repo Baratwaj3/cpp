@@ -20,11 +20,13 @@ int main()
 
 /*
 output_1:
+
 Enter a string: programming
 Enter target char: r
 Last occuring of target word is : ramming
 
 output_2:
+
 Enter a string: programming
 Enter target string: l
 not found
