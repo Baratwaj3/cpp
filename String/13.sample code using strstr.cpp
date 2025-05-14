@@ -21,11 +21,13 @@ int main()
 
 /*
 output_1:
+
 Enter a string: programming
 Enter target string: g
 gramming
 
 output_2:
+
 Enter a string: programming
 Enter target string: k
 not found
