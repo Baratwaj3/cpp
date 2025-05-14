@@ -27,6 +27,7 @@ int main()
 }
 
 /* output:
+
     5
     9
     4.87
