@@ -19,16 +19,19 @@ int main()
 
 /*
 output_1:
+
 Enter a string: BARAT
 Enter target string: barat
 result : -32
 
 output_2:
+
 Enter a string: barat
 Enter target string: BARAT
 result : 32
 
 output_3:
+
 Enter a string: barat
 Enter target string: barat
 result : 0
