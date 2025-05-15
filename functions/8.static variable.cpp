@@ -18,6 +18,7 @@ int main() {
 }
 
 /*output :
+
    6 
    7 
    8
