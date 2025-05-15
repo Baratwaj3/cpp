@@ -52,6 +52,7 @@ int main()
      The number is found at the index :2
 
    output 2:
+   
      Enter the number of elements
      3
      Enter 3 to search
