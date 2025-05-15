@@ -40,6 +40,7 @@ int main()
 }
 
 /*   output 1:
+
      Enter the number of elements
      3
      Enter 3 to search
