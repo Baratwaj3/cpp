@@ -14,6 +14,7 @@ int main()
 }
 
 /* output:
+
      2
      5
      9
