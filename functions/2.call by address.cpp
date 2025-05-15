@@ -18,6 +18,7 @@ int main()
     return 0;
 }
 /* output :
+
     6
     5
 
