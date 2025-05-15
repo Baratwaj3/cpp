@@ -19,6 +19,7 @@ int main() {
     return 0;
 }
 /*output:
+
     incrementing local variable : 21
     incrementing global variable : 11
 */
