@@ -14,6 +14,7 @@ int main()
 }
 
 /*output:
+
     5
     4.87
 */
