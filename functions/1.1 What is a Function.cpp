@@ -12,5 +12,6 @@ int main()
 }
 
 /*output:
+
     9
 */
