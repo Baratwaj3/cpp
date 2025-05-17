@@ -13,3 +13,9 @@ int main()
     string s3 = " ";
     cout << "Length of empty string: " << s3.length() << endl;
 }
+/*
+output:
+Length: 5
+Size: 7
+Length of empty string: 1
+*/
