@@ -16,3 +16,10 @@ int main()
     s3.resize(10);
     cout << "After resize to 10 (default char): " << s3 << endl;
 }
+/*
+output:
+After resize to 3: Hel
+After resize to 8 with '*': World***
+After resize to 10 (default char): Data
+*/
+
