@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string s1 = "Hello";
     cout << "Length: " << s1.length() << endl;
 
