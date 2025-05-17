@@ -14,3 +14,10 @@ int main()
     s3.reserve(50);
     cout << "Reserved Capacity: " << s3.capacity() << endl;
 }
+/*
+output:
+Capacity: 15
+Capacity: 23
+Reserved Capacity: 50
+*/
+
