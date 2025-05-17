@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string s1 = "Hello";
     s1.resize(3);
     cout << "After resize to 3: " << s1 << endl;
