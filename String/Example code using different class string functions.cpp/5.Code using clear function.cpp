@@ -10,3 +10,9 @@ int main()
     cout << "After clear: '" << s << "'" << endl;
     return 0;
 }
+/*
+output:
+Before clear: Clear this text
+After clear: ''
+*/
+
