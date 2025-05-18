@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string s = "";
     cout << "Is string empty? " << (s.empty() ? "Yes" : "No") << endl;
 
