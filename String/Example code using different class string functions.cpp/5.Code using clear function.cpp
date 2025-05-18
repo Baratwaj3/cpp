@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string s = "Clear this text";
     cout << "Before clear: " << s << endl;
     s.clear();
