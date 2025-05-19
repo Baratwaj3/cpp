@@ -9,3 +9,8 @@ int main()
     cout << "Length: " << username.length() << endl;
     return 0;
 }
+/*
+output:
+Username: user123
+Length: 7
+*/
