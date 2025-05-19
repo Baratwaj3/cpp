@@ -15,3 +15,8 @@ int main()
     }
     return 0;
 }
+/*
+output:
+Password field is empty!
+
+*/
