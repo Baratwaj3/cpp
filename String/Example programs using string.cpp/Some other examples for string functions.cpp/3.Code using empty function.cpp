@@ -2,11 +2,15 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string password = "";
-    if (password.empty()) {
+    if (password.empty())
+    {
         cout << "Password field is empty!" << endl;
-    } else {
+    }
+    else
+    {
         cout << "Password entered." << endl;
     }
     return 0;
