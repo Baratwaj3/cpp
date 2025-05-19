@@ -11,3 +11,8 @@ int main()
     cout << "After assigning, is empty? " << (s.empty() ? "Yes" : "No") << endl;
     return 0;
 }
+/*
+output:
+Is string empty? Yes
+After assigning, is empty? No
+*/
