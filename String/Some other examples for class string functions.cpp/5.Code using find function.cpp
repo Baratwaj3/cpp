@@ -10,3 +10,8 @@ int main() {
         cout << "Email is not Gmail." << endl;
     return 0;
 }
+/*
+output:
+Email is not Gmail.
+
+*/
