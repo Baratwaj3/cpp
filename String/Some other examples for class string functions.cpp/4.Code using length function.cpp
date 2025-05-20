@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string sms = "This is a short SMS.";
     cout << "SMS Length: " << sms.length() << endl;
     if (sms.length() > 160)
