@@ -14,6 +14,7 @@ int main()
 }
 /*
 output:
+
 SMS Length: 22
 SMS is within limit.
 
