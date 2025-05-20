@@ -12,3 +12,9 @@ int main()
         cout << "SMS is within limit." << endl;
     return 0;
 }
+/*
+output:
+SMS Length: 22
+SMS is within limit.
+
+*/
