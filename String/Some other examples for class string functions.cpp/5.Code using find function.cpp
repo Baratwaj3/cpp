@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string email = "user@example.com";
     if (email.find("@gmail.com") != string::npos)
         cout << "Email is a Gmail address." << endl;
