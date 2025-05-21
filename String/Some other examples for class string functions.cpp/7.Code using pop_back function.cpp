@@ -9,3 +9,7 @@ int main()
     cout << "Corrected input: " << input << endl;
     return 0;
 }
+/*
+output:
+Corrected input: Hello
+*/
