@@ -7,3 +7,7 @@ int main() {
     cout << "First: " << line.front() << ", Last: " << line.back() << endl;
     return 0;
 }
+/*
+output:
+First: C, Last: T
+*/
