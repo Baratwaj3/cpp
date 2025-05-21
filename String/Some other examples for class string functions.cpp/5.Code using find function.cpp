@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 /*
-output:space
+output:
 
 Email is not Gmail.
 
