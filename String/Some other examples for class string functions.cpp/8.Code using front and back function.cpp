@@ -9,5 +9,6 @@ int main() {
 }
 /*
 output:
+
 First: C, Last: T
 */
