@@ -9,3 +9,7 @@ int main()
     cout << "Full filename: " << filename << endl;
     return 0;
 }
+/*
+output:
+Full filename: document.pdf
+*/
