@@ -7,3 +7,7 @@ int main() {
     cout << "Preview: " << article.substr(0, 10) << "..." << endl;
     return 0;
 }
+/*
+output:
+Preview: This is a ...
+*/
