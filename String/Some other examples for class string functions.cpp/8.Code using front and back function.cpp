@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string line = "CodeGPT";
     cout << "First: " << line.front() << ", Last: " << line.back() << endl;
     return 0;
