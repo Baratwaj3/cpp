@@ -8,3 +8,7 @@ int main() {
     cout << "Cleared search: '" << search << "'" << endl;
     return 0;
 }
+/*
+output:
+Cleared search: ''
+*/
