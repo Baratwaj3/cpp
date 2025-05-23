@@ -18,4 +18,5 @@ output:
 
 Full concatenation: hellowelcome
 Partial concatenation (3 chars): hellowel
+
 */
