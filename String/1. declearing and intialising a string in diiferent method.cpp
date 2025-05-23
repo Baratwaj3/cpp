@@ -20,4 +20,5 @@ output:
     hello
     ABCD
     world
+    
 /*
