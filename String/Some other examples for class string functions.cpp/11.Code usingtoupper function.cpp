@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string name = "bob";
     name[0] = toupper(name[0]);
     cout << "Capitalized: " << name << endl;
@@ -12,5 +13,5 @@ int main() {
 output:
 
  Capitalized: Bob
- 
+
 */
