@@ -8,3 +8,7 @@ int main() {
     cout << "Capitalized: " << name << endl;
     return 0;
 }
+/*
+output:
+ Capitalized: Bob
+*/
