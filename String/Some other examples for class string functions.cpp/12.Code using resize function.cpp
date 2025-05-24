@@ -9,3 +9,7 @@ int main()
     cout << "Preview: " << blog << "..." << endl;
     return 0;
 }
+/*
+output:
+Preview: Welcome to...
+*/
