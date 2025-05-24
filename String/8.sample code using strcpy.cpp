@@ -13,4 +13,5 @@ int main()
 output: 
 
 copying s2 in s1: welcome
+
 */
