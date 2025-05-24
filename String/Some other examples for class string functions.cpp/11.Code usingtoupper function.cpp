@@ -10,5 +10,6 @@ int main() {
 }
 /*
 output:
+
  Capitalized: Bob
 */
