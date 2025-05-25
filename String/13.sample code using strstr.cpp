@@ -31,4 +31,5 @@ output_2:
 Enter a string: programming
 Enter target string: k
 not found
+
 */
