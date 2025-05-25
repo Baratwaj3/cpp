@@ -11,3 +11,7 @@ int main()
     cout << "Updated post: " << post << endl;
     return 0;
 }
+/*
+output:
+Updated post: I love C++!
+*/
