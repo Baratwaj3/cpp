@@ -12,4 +12,5 @@ int main()
 output:
 
 Length of string: 10
+
 */
