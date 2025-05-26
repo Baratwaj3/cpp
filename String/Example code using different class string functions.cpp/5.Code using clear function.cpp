@@ -15,5 +15,6 @@ output:
 
 Before clear: Clear this text
 After clear: ''
+
 */
 
