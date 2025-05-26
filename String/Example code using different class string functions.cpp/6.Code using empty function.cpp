@@ -16,4 +16,5 @@ output:
 
 Is string empty? Yes
 After assigning, is empty? No
+
 */
