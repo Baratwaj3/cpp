@@ -17,4 +17,5 @@ int main()
 output: 
 
 madam is a palindrome.
+
 */
