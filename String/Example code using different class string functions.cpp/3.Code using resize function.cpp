@@ -22,5 +22,6 @@ output:
 After resize to 3: Hel
 After resize to 8 with '*': World***
 After resize to 10 (default char): Data
+
 */
 
