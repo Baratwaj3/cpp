@@ -22,4 +22,5 @@ int main() {
 
     incrementing local variable : 21
     incrementing global variable : 11
+    
 */
