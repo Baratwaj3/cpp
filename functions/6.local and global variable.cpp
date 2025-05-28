@@ -38,4 +38,5 @@ output :
    Getting gloable variable when it is hide by local variable in   this block : 10
    Local to the block: 21
    Getting  global variable after changes: 10
+   
 */
