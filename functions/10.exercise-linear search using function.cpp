@@ -62,4 +62,5 @@ int main()
      Enter the number to be searched :
      9
      The number is not found
+     
 */
