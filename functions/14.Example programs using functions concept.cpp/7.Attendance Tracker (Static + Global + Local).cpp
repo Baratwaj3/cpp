@@ -22,6 +22,7 @@ int main() {
 Output:
    Present: 1, Total Students: 1
    Present: 2, Total Students: 2
-   Present: 3, Total Students: 3
+   Present: 3, Total Students: 
+   
 */
 
