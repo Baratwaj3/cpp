@@ -11,3 +11,7 @@ int main()
         cout << "Comment is clean." << endl;
     return 0;
 }
+/*
+output:
+Inappropriate content found.
+*/
