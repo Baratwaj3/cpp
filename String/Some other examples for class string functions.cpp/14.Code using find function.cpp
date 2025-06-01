@@ -13,5 +13,7 @@ int main()
 }
 /*
 output:
+
 Inappropriate content found.
+
 */
