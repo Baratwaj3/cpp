@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string comment = "This is a bad comment.";
     if (comment.find("bad") != string::npos)
         cout << "Inappropriate content found." << endl;
