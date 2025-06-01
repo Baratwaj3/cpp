@@ -9,3 +9,7 @@ int main()
     cout << greet << endl;
     return 0;
 }
+/*
+output: 
+ Hello, Alex!
+*/
