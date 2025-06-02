@@ -12,3 +12,7 @@ int main()
         cout << "String b is longer" << endl;
     return 0;
 }
+/*
+output:
+String b is longer
+*/
