@@ -11,3 +11,7 @@ int main()
         cout << "Not a secure URL" << endl;
     return 0;
 }
+/*
+output:
+Secure URL
+*/
