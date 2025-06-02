@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string url = "https://example.com";
     if (url.find("https://") == 0)
         cout << "Secure URL" << endl;
