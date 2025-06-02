@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string a = "apple";
     string b = "banana";
     if (a.size() > b.size())
