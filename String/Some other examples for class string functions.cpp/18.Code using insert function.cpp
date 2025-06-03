@@ -11,5 +11,7 @@ int main()
 }
 /*
 output:
+
 Full name: barat waj
+
 */
