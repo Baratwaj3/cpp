@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string name = "John Doe";
     name.insert(5, "Michael ");
     cout << "Full name: " << name << endl;
