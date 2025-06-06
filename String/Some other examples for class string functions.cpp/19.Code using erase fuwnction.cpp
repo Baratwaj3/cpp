@@ -12,5 +12,7 @@ int main()
     return 0;
 }
 /*output:
+
 Cleaned line: This is a idea
+
 */
