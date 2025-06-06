@@ -11,3 +11,6 @@ int main()
     cout << "Cleaned line: " << line << endl;
     return 0;
 }
+/*output:
+Cleaned line: This is a idea
+*/
