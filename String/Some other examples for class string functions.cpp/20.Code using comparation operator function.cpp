@@ -12,3 +12,6 @@ int main()
         cout << "Passwords do not match." << endl;
     return 0;
 }
+/*output: 
+Passwords match.
+*/
