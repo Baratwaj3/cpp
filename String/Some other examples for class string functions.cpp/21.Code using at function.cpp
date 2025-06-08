@@ -8,3 +8,8 @@ int main()
     cout << "Third character: " << s.at(2) << endl;
     return 0;
 }
+output:
+/*
+Third character: e
+
+*/
