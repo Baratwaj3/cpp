@@ -9,9 +9,11 @@ int main()
     string fullPath = path + user + "/Documents";
     cout << "Full Path: " << fullPath << endl;
     return 0;
-    /*
+    
+}
+/*
     output:
+    
     Full Path: C:/Users/Admin/Documents
 
     */
-}
