@@ -11,3 +11,7 @@ int main()
         cout << name2 << " comes before " << name1 << endl;
     return 0;
 }
+/*
+output:
+Alice comes before Bob
+*/
