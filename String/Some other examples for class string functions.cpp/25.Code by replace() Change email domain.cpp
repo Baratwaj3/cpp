@@ -11,3 +11,7 @@ int main()
     cout << "Updated email: " << email << endl;
     return 0;
 }
+/*
+output:
+Updated email: user@gmail.com 
+*/
