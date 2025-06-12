@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string email = "user@yahoo.com";
     size_t pos = email.find("yahoo.com");
     if (pos != string::npos)
