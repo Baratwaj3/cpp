@@ -9,3 +9,7 @@ int main() {
     cout << "You typed: " << sentence << endl;
     return 0;
 }
+/*
+You typed: <user input>
+
+*/
