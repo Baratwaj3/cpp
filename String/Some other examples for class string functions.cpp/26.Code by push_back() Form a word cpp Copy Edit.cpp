@@ -11,3 +11,7 @@ int main()
     cout << "Word: " << word << endl;
     return 0;
 }
+/*
+output:
+Word: CPP
+*/
