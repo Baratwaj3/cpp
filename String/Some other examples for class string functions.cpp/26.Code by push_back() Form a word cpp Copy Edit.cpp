@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string word;
     word.push_back('C');
     word.push_back('P');
