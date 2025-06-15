@@ -9,3 +9,7 @@ int main()
     cout << "Formatted: " << num << endl;
     return 0;
 }
+/*
+output:
+Formatted: 98765-43210
+*/
