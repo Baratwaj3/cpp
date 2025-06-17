@@ -12,5 +12,7 @@ int main()
 }
 output:
 /*
+
 Domain: company.com
+
 */
