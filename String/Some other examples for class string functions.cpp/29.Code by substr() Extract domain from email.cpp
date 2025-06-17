@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string email = "name@company.com";
     size_t at = email.find("@");
     string domain = email.substr(at + 1);
