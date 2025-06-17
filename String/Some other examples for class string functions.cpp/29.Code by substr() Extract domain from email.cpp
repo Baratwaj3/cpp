@@ -10,3 +10,7 @@ int main()
     cout << "Domain: " << domain << endl;
     return 0;
 }
+output:
+/*
+Domain: company.com
+*/
