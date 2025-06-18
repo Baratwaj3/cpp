@@ -14,5 +14,7 @@ int main()
 }
 /*
 output:
+
  Number of 'a': 3
+ 
 */
