@@ -12,3 +12,7 @@ int main()
     cout << "Number of 'a': " << count << endl;
     return 0;
 }
+/*
+output:
+ Number of 'a': 3
+*/
