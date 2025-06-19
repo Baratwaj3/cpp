@@ -11,3 +11,6 @@ int main()
     cout << "Reversed: " << rev << endl;
     return 0;
 }
+/*
+output:abortReversed: ianepo
+ */
