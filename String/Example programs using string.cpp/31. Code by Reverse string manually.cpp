@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string s = "openai";
     string rev = "";
     for (int i = s.size() - 1; i >= 0; --i)
