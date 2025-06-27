@@ -13,5 +13,7 @@ int main()
 }
 /* 
 output:
+
 Cleaned line: This is a idea
+
 */
