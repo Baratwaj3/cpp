@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string line = "This is a bad idea";
     size_t pos = line.find("bad ");
     if (pos != string::npos)
