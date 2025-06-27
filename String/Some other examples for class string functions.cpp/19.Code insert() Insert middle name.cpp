@@ -9,3 +9,7 @@ int main()
     cout << "Full name: " << name << endl;
     return 0;
 }
+/*
+output:
+Full name: John Michael Doe
+*/
