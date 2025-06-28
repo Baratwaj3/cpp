@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string pass1 = "secret123";
     string pass2 = "secret123";
     if (pass1 == pass2)
