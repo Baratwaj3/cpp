@@ -10,6 +10,7 @@ int main()
 }
 /*
 output:
+
 Third character: e
 
 */
