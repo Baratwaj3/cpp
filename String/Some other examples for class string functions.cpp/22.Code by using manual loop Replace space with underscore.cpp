@@ -13,3 +13,7 @@ int main()
     cout << "Modified: " << s << endl;
     return 0;
 }
+/*
+output:
+Modified: file_name_with_space.txt
+*/
