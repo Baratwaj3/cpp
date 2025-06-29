@@ -12,5 +12,7 @@ int main()
 }
 /*
 output:
+
 Full Path: C:/Users/Admin/Documents
+
 */
