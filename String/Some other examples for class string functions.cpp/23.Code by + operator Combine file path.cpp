@@ -10,3 +10,7 @@ int main()
     cout << "Full Path: " << fullPath << endl;
     return 0;
 }
+/*
+output:
+Full Path: C:/Users/Admin/Documents
+*/
