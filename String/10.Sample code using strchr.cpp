@@ -9,7 +9,7 @@ int main()
     char s2;
     cout << "Enter target char: ";
     cin >> s2;
-    char *x;          // search target from left to right
+    char *x;          // search target from left to right and strchr returns i=only the pointer so we used and pointer directly point to the targeted address 
     x = strchr(s1, s2);
     if (x != NULL)
         cout << "First occuring of target word is : " << x << endl;
