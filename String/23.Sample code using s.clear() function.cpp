@@ -9,8 +9,14 @@ int main()
     cout << "The length of the string is: " << len_1 << endl;
 
     str.clear();
-    
+
     int len_2 = str.length();
     cout << "The length of the string after clear is: " << len_2 << endl;
     return 0;
 }
+/*
+output:
+The length of the string is: 11
+The length of the string after clear is: 0
+
+*/
