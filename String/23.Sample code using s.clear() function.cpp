@@ -15,7 +15,9 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 The length of the string is: 11
 The length of the string after clear is: 0
 
