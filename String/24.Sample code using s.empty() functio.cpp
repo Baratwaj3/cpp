@@ -6,7 +6,7 @@ int main()
 {
     string str;
     cout << "Enter a string : ";
-    getline(cin, str);
+    getline(cin, str); // Reads full line, including spaces
 
     if (str.empty())
     {
