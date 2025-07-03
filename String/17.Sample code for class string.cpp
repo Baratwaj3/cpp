@@ -13,6 +13,7 @@ int main()
     cout>>str_2;
 
     string str_3 = "HELLO WORLD";
+    cin.ignore(); // clears the newline left in the buffer
     getline(cin, str_3);
     cout << str_3 << endl;
 
