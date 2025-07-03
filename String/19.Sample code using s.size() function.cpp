@@ -8,6 +8,9 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 The size of the string is 5
+
 */
