@@ -18,3 +18,16 @@ int main()
     }
     return 0;
 }
+
+/*
+output_1:
+
+Enter a string : HELLO
+The given string is :HELLO
+
+output_2:
+
+Enter a string : 
+The string is empty
+
+*/
