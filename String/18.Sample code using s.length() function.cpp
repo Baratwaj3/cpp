@@ -13,4 +13,4 @@ output:
 
 The length of the string is 5
 
-/*
+*/
