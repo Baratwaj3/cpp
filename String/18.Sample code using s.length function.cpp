@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    string str="HELLO";
-    int len=str.length();
-    cout<<"The length of the string is "<<len<<endl;
+    string str = "HELLO";
+    int len = str.length();
+    cout << "The length of the string is " << len << endl;
     return 0;
 }
