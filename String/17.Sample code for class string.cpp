@@ -6,9 +6,15 @@ int main()
     cin >> str_1;
     cout << str_1 << endl;
 
-    string str_2 = "HELLO WORLD";
-    getline(cin, str_2);
-    cout << str_2 << endl;
+    string str_2="HELLO WORLD";
+    cin>>str_2; // gets HELLO from the keyboard
+    cout<<str_2;
+    cin>>str_2; // gets WORLD from the keyboard
+    cout>>str_2;
+
+    string str_3 = "HELLO WORLD";
+    getline(cin, str_3);
+    cout << str_3 << endl;
 
     return 0;
 }
@@ -16,6 +22,7 @@ int main()
 output:
 
 HELLO
+HELLO WORLD
 HELLO WORLD
 
 */
