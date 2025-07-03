@@ -7,3 +7,7 @@ int main()
     cout << "The size of the string is " << size << endl;
     return 0;
 }
+/*
+output:
+The size of the string is 5
+*/
