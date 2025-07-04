@@ -8,3 +8,7 @@ int main()
     cout << "String after get added by single char: " << str << endl;
     return 0;
 }
+/*
+output:
+String after get added by single char: HOW ARE YOU z
+*/
