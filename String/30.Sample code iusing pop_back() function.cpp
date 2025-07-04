@@ -8,3 +8,7 @@ int main()
     cout << "String after pop_back: " << str << endl;
     return 0;
 }
+/*
+output:
+String after pop_back: HOW ARE YOU
+*/
