@@ -10,5 +10,7 @@ int main()
 }
 /*
 output:
+
 String after get added by single char: HOW ARE YOU z
+
 */
