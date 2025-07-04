@@ -10,6 +10,9 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 HOW ARE YOU VIEWER!
+
 */
