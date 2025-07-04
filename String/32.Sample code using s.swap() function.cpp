@@ -9,3 +9,7 @@ int main()
     cout << str_1 << str_2 << endl;
     return 0;
 }
+/*
+output:
+HOW ARE YOU VIEWER!
+*/
