@@ -9,6 +9,9 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 String after pop_back: HOW ARE YOU
+
 */
