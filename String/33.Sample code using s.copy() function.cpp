@@ -12,6 +12,9 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 no of char copies: 7
+
 */
