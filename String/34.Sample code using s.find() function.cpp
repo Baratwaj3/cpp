@@ -13,7 +13,10 @@ int main()
     return 0;
 }
 /*
+
 output:
+
 String finded at the index: 0
 character finded at the index: 2
+
 */
