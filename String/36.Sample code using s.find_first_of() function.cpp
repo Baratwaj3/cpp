@@ -10,3 +10,10 @@ int main()
 
     return 0;
 }
+/*
+
+output:
+
+First char finded at the index: 3
+
+*/
