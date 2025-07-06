@@ -10,6 +10,8 @@ int main()
         cout << *it;
     }
     return 0;
+    // by declearing *it+=32
+    // we can print it in lower case 
 }
 /*
 
