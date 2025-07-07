@@ -7,13 +7,17 @@ int main()
     for (int i = 0; str[i] != '\0'; i++)
     {
 
-        cout << str[i];
+        cout << str[i]<<endl;
     }
     return 0;
 }
 /*
 output:
 
-TODAY
+T
+O
+D
+A
+Y
 
 */
