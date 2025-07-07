@@ -41,4 +41,10 @@ Enter the string:
 SeE yOu SoOn
 sEe YoU sOoN
 
+output_4:
+
+Enter the string:
+happy to see you@7
+HAPPY TO SEE YOU@7
+
 */
