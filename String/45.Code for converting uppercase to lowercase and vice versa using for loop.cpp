@@ -22,3 +22,14 @@ int main()
 
     return 0;
 }
+/*
+output_1:
+Enter the string
+welcome to my github profile
+WELCOME TO MY GITHUB PROFILE
+
+output_2:
+Enter the string
+THANKYOU FOR VISITING MY PROFILE
+thankyou for visiting my profile
+*/
