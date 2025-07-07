@@ -20,6 +20,7 @@ int main()
 }
 /*
 output:
+
 Enter the string
 Welcome viewer
 character1=W
@@ -37,4 +38,5 @@ character12=w
 character13=e
 character14=r
 Total characters: 14
+
 */
