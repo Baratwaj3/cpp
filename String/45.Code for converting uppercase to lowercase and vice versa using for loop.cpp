@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     string str;
-    cout << "Enter the string" << endl;
+    cout << "Enter the string:" << endl;
     getline(cin, str);
 
     for (int i = 0; str[i] != '\0'; i++)
@@ -25,14 +25,20 @@ int main()
 /*
 output_1:
 
-Enter the string
+Enter the string:
 welcome to my github profile
 WELCOME TO MY GITHUB PROFILE
 
 output_2:
 
-Enter the string
+Enter the string:
 THANKYOU FOR VISITING MY PROFILE
 thankyou for visiting my profile
+
+output_3:
+
+Enter the string:
+SeE yOu SoOn
+sEe YoU sOoN
 
 */
