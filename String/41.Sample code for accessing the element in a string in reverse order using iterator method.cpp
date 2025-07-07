@@ -8,7 +8,7 @@ int main()
     for (it = str.rbegin(); it != str.rend(); it++)
     {
 
-        cout << *it;
+        cout << *it; // using pointer to point the char
     }
     return 0;
 }
