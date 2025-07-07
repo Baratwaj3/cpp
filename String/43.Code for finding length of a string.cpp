@@ -17,3 +17,18 @@ int main()
 
     return 0;
 }
+/*
+output:
+Enter the string
+Hi Viewer
+character1=H
+character2=i
+character3= 
+character4=V
+character5=i
+character6=e
+character7=w
+character8=e
+character9=r
+Total characters: 9
+*/
