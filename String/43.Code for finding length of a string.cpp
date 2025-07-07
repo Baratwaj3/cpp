@@ -19,6 +19,7 @@ int main()
 }
 /*
 output:
+
 Enter the string
 Hi Viewer
 character1=H
@@ -31,4 +32,5 @@ character7=w
 character8=e
 character9=r
 Total characters: 9
+
 */
