@@ -11,7 +11,7 @@ int main()
     for (int i = 0; str[i] != '\0'; i++)
     {
         count++;
-        cout << "character" << i + 1 << "=" << str[i] << endl;
+        cout << "character" << i + 1 << "=" << str[i] << endl;   //also use count instead of i+1
     }
     cout << "Total characters: " << count << endl;
 
