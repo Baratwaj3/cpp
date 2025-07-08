@@ -36,5 +36,7 @@ output_2:
 Enter the string: MaDaM
 palindrome
 
-
+output_3:
+Enter the string: welcome
+not a palindrome
 */
