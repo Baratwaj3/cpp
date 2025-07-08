@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include <algorithm>
 using namespace std;
 
@@ -6,22 +6,21 @@ int main()
 {
     string str;
     string rev;
-    cout<<"Enter the string: ";
-    cin>>str;
+    cout << "Enter the string: ";
+    cin >> str;
     transform(str.begin(), str.end(), str.begin(), ::tolower);
     int len = (int)str.length();
 
-    rev.resize(len);           
+    rev.resize(len);
 
-    for(int i = 0, j = len - 1; i < len; i++, j--)  
+    for (int i = 0, j = len - 1; i < len; i++, j--)
     {
-        rev[i] = str[j];       
+        rev[i] = str[j];
     }
 
-    rev[len] = '\0';           
+    rev[len] = '\0';
 
-   
-    if(str==rev)
+    if (str == rev)
         cout << "palindrome" << endl;
     else
         cout << "not a palindrome" << endl;
