@@ -33,10 +33,12 @@ int main()
 }
 /*
 output_1:
+
 Enter your E-mail: baratwaj3@gmail.com
 Valid username: baratwaj3
 
 output_2:
+
 Enter your E-mail: b#arat-waj3@gmail.com
 Invalid username
 
