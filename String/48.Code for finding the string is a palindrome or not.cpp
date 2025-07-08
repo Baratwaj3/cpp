@@ -34,6 +34,7 @@ Enter the string: madam
 palindrome
 
 output_2:
+
 Enter the string: MaDaM
 palindrome
 
