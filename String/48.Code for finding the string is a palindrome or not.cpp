@@ -29,6 +29,7 @@ int main()
 }
 /*
 output_1:
+
 Enter the string: madam
 palindrome
 
