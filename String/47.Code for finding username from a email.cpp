@@ -1,21 +1,24 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     string email;
-    cout<<"Enter your E-mail: ";
-    cin>>email;
+    cout << "Enter your E-mail: ";
+    cin >> email;
     int i = email.find('@');
     string j = email.substr(0, i);
     int len = j.length();
-    bool valid = true; 
+    bool valid = true;
 
-    for (int k = 0; k < len; k++) {
+    for (int k = 0; k < len; k++)
+    {
         char ch = j[k];
         if (!((ch >= 'a' && ch <= 'z') ||
               (ch >= 'A' && ch <= 'Z') ||
               (ch >= '0' && ch <= '9') ||
-              (ch == '_'))) {
+              (ch == '_')))
+        {
             valid = false;
             break;
         }
