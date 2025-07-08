@@ -31,3 +31,9 @@ int main()
 
     return 0;
 }
+/*
+output_1:
+Enter your E-mail: baratwaj3@gmail.com
+Valid username: baratwaj3
+
+*/
