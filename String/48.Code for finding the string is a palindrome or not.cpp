@@ -42,4 +42,5 @@ output_3:
 
 Enter the string: welcome
 not a palindrome
+
 */
