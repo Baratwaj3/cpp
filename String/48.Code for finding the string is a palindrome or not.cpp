@@ -8,9 +8,9 @@ int main()
     string rev;
     cout << "Enter the string: ";
     cin >> str;
-    transform(str.begin(), str.end(), str.begin(), ::tolower);
-    int len = (int)str.length();
+    transform(str.begin(), str.end(), str.begin(), ::tolower); //to covert the str to lowercase 
 
+    int len = (int)str.length();
     rev.resize(len);
 
     for (int i = 0, j = len - 1; i < len; i++, j--)
@@ -27,3 +27,9 @@ int main()
 
     return 0;
 }
+/*
+output_1:
+Enter the string: madam
+palindrome
+
+*/
