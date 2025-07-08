@@ -9,6 +9,7 @@ int main()
     int i = email.find('@');
     string j = email.substr(0, i);
     int len = j.length();
+
     bool valid = true;
 
     for (int k = 0; k < len; k++)
