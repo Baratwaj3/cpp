@@ -16,3 +16,7 @@ int main()
     c.display();
     return 0;
 }
+/*
+output:
+
+*/
