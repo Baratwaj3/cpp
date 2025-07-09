@@ -16,3 +16,8 @@ int main()
     c.display();
     return 0;
 }
+/*
+output:
+This is a car.
+
+*/
