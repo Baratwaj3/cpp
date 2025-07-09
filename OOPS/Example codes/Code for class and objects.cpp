@@ -1,17 +1,14 @@
 #include <iostream>
 using namespace std;
 
-class Car
-{
+class Car {
 public:
-    void display()
-    {
+    void display() {
         cout << "This is a car.\n";
     }
 };
 
-int main()
-{
+int main() {
     Car c;
     c.display();
     return 0;
