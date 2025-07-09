@@ -18,5 +18,7 @@ int main()
 }
 /*
 output:
+Output:
+This is a car.
 
 */
