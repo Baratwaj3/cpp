@@ -17,7 +17,7 @@ int main()
     return 0;
 }
 /*
-output:
+
 Output:
 This is a car.
 
