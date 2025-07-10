@@ -17,7 +17,7 @@ class rectangle
 };
 
 int main() {
-   rectangle *p=new rectangle;
+   rectangle *p=new rectangle; // used to allocate memory in heap
    p->length=10;
    p->breath=20;
    cout<<"Area of the rectangle: "<<p->area()<<endl;
