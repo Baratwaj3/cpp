@@ -22,7 +22,7 @@ int main()
     rectangle *p;
     p = &r;
 
-    p->length = 10;  //-> to access members in the class
+    p->length = 10;  //-> to access members in the class [arrow only for pointers not for variables]
     p->breath = 20;
 
     cout << "Area of the rectangle: " << p->area() << endl;
