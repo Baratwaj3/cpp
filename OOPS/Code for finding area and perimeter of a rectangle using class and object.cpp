@@ -19,7 +19,7 @@ public:
 int main()
 {
     rectangle r_1;
-    
+
     r_1.length = 10;
     r_1.breath = 20;
 
@@ -28,3 +28,7 @@ int main()
 
     return 0;
 }
+/*
+output_1:
+
+*/
