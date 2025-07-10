@@ -30,6 +30,8 @@ int main()
 }
 /*
 output_1:
+
 Area of the rectangle: 200
 Perimater of the rectangle: 60
+
 */
