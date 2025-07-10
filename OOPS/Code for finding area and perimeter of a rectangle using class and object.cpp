@@ -23,8 +23,8 @@ int main()
     r_1.length = 10;
     r_1.breath = 20;
 
-    cout << r_1.area() << endl;
-    cout << r_1.perimeter() << endl;
+    cout <<"Area of the rectangle: "<< r_1.area() << endl;
+    cout <<"Perimater of the rectangle: "<< r_1.perimeter() << endl;
 
     return 0;
 }
