@@ -19,7 +19,7 @@ public:
 int main()
 {
     rectangle r;
-    rectangle *p;
+    rectangle *p;   // 2 bytes by default for pointers
     p = &r;
 
     p->length = 10;  //-> to access members in the class [arrow only for pointers not for variables]
