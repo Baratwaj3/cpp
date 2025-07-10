@@ -2,26 +2,29 @@
 using namespace std;
 class rectangle
 {
-    public:
-    
+public:
     int length;
     int breath;
+
     int area()
     {
-        return length*breath;
+        return length * breath;
     }
-   int  perimeter()
+    int perimeter()
     {
-        return 2*(length+breath);
+        return 2 * (length + breath);
     }
 };
 
-int main() {
-   rectangle r_1;
-   r_1.length=10;
-   r_1.breath=20;
-   cout<<r_1.area()<<endl;
-   cout<<r_1.perimeter()<<endl;
-   
+int main()
+{
+    rectangle r_1;
+    
+    r_1.length = 10;
+    r_1.breath = 20;
+
+    cout << r_1.area() << endl;
+    cout << r_1.perimeter() << endl;
+
     return 0;
 }
