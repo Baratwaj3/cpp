@@ -22,7 +22,7 @@ int main()
     rectangle *p;
     p = &r;
 
-    p->length = 10;
+    p->length = 10;  
     p->breath = 20;
 
     cout << "Area of the rectangle: " << p->area() << endl;
@@ -32,4 +32,6 @@ int main()
 }
 /*
 output:
+Area of the rectangle: 200
+Perimater of the rectangle: 60
 */
