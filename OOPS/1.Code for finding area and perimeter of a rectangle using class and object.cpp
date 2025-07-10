@@ -20,7 +20,7 @@ int main()
 {
     rectangle r_1;
 
-    r_1.length = 10;
+    r_1.length = 10;  //. to access members in the class [dot operator only for variables not for pointers]
     r_1.breath = 20;
 
     cout <<"Area of the rectangle: "<< r_1.area() << endl;
