@@ -22,9 +22,13 @@ int main()
 
     p->length = 10;
     p->breath = 20;
-    
+
     cout << "Area of the rectangle: " << p->area() << endl;
     cout << "Perimater of the rectangle: " << p->perimeter() << endl;
 
     return 0;
 }
+/*
+output:
+
+*/
