@@ -52,8 +52,10 @@ int main()
     Rectangle r;
     r.setlength(10);
     r.setbreadth(20);
+
     cout << "Length: " << r.getlength() << endl;
     cout << "Breadth: " << r.getbreadth() << endl;
+    
     cout << "Area: " << r.area() << endl;
     cout << "Perimeter: " << r.perimeter() << endl;
 
