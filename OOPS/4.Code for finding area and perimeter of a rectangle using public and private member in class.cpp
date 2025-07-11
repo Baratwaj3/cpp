@@ -1,22 +1,26 @@
 #include <iostream>
 using namespace std;
 
-class Rectangle {
+class Rectangle
+{
 private:
-    int length = 10;   // fixed value
-    int breadth = 5;   // fixed value
+    int length = 10; // fixed value
+    int breadth = 5; // fixed value
 
 public:
-    int area() {
+    int area()
+    {
         return length * breadth;
     }
 
-    int perimeter() {
+    int perimeter()
+    {
         return 2 * (length + breadth);
     }
 };
 
-int main() {
+int main()
+{
     Rectangle r;
     cout << "Area: " << r.area() << endl;
     cout << "Perimeter: " << r.perimeter() << endl;
