@@ -11,7 +11,7 @@ public:
     // Setter for length
     void setlength(int l)
     {
-        if (l >= 0)
+        if (l >= 0)               // for control over data
             length = l;
         else
             cout << "Not a valid length" << endl;
@@ -59,3 +59,11 @@ int main()
 
     return 0;
 }
+/*
+output_1:
+Length: 10
+Breadth: 20
+Area: 200
+Perimeter: 60
+
+*/
