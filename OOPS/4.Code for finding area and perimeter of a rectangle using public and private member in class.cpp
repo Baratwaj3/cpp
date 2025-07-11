@@ -26,3 +26,7 @@ int main()
     cout << "Perimeter: " << r.perimeter() << endl;
     return 0;
 }
+/*
+output:
+
+*/
