@@ -61,6 +61,7 @@ int main()
 }
 /*
 output_1:
+
 Length: 10
 Breadth: 20
 Area: 200
