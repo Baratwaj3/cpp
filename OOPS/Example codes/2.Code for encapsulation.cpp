@@ -1,20 +1,24 @@
 #include <iostream>
 using namespace std;
 
-class Student {
+class Student
+{
 private:
     int age;
 
 public:
-    void setAge(int a) {
+    void setAge(int a)
+    {
         age = a;
     }
-    int getAge() {
+    int getAge()
+    {
         return age;
     }
 };
 
-int main() {
+int main()
+{
     Student s;
     s.setAge(20);
     cout << "Age: " << s.getAge();
