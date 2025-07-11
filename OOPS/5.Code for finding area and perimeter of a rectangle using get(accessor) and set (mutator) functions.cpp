@@ -69,6 +69,7 @@ Breadth: 20
 Area: 200
 Perimeter: 60
 
+IF THE VALUE IS NEGATIVE 
 
 output_2:
 
