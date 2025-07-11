@@ -28,6 +28,7 @@ int main()
 }
 /*
 Output:
+
 Eating...
 Barking...
 
