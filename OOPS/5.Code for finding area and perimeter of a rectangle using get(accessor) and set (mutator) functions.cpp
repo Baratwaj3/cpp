@@ -55,7 +55,7 @@ int main()
 
     cout << "Length: " << r.getlength() << endl;
     cout << "Breadth: " << r.getbreadth() << endl;
-    
+
     cout << "Area: " << r.area() << endl;
     cout << "Perimeter: " << r.perimeter() << endl;
 
@@ -68,5 +68,10 @@ Length: 10
 Breadth: 20
 Area: 200
 Perimeter: 60
-
+output_2:
+Not a valid length
+Length: 1651076199
+Breadth: 20
+Area: -1338214388
+Perimeter: -992814858
 */
