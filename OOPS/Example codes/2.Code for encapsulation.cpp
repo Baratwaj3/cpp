@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 /*
-output:
-
+Output:
+Age: 20
 
 */
