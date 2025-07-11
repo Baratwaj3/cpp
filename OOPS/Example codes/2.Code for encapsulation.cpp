@@ -24,3 +24,8 @@ int main()
     cout << "Age: " << s.getAge();
     return 0;
 }
+/*
+output:
+
+
+*/
