@@ -4,8 +4,8 @@ using namespace std;
 class Rectangle
 {
 private:
-    int length = 10; // fixed value
-    int breadth = 5; // fixed value
+    int length = 10;    // fixed value
+    int breadth = 5;    // fixed value
 
 public:
     int area()
