@@ -26,6 +26,7 @@ int main()
 }
 /*
 Output:
+
 Age: 20
 
 */
