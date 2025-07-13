@@ -32,6 +32,7 @@ int main()
 }
 /*
 output:
+
 Class A
 Class B
 
