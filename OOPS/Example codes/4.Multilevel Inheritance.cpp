@@ -1,28 +1,35 @@
 #include <iostream>
 using namespace std;
 
-class Animal {
+class Animal
+{
 public:
-    void sound() {
+    void sound()
+    {
         cout << "Animal Sound\n";
     }
 };
 
-class Dog : public Animal {
+class Dog : public Animal
+{
 public:
-    void bark() {
+    void bark()
+    {
         cout << "Dog Barking\n";
     }
 };
 
-class Puppy : public Dog {
+class Puppy : public Dog
+{
 public:
-    void weep() {
+    void weep()
+    {
         cout << "Puppy Weeping\n";
     }
 };
 
-int main() {
+int main()
+{
     Puppy p;
     p.sound();
     p.bark();
