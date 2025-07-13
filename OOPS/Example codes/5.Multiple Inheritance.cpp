@@ -1,23 +1,30 @@
 #include <iostream>
 using namespace std;
 
-class A {
+class A
+{
 public:
-    void msgA() {
+    void msgA()
+    {
         cout << "Class A\n";
     }
 };
 
-class B {
+class B
+{
 public:
-    void msgB() {
+    void msgB()
+    {
         cout << "Class B\n";
     }
 };
 
-class C : public A, public B {};
+class C : public A, public B
+{
+};
 
-int main() {
+int main()
+{
     C obj;
     obj.msgA();
     obj.msgB();
