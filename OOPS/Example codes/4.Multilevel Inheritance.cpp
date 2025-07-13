@@ -21,7 +21,6 @@ public:
         cout << "Puppy Weeping\n";
     }
 };
-
 int main() {
     Puppy p;
     p.sound();
