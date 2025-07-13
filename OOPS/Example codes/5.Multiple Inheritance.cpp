@@ -30,4 +30,6 @@ int main()
     obj.msgB();
     return 0;
 }
-/**/
+/*
+output:
+*/
