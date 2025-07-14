@@ -1,17 +1,21 @@
 #include <iostream>
 using namespace std;
 
-class Print {
+class Print
+{
 public:
-    void show(int i) {
+    void show(int i)
+    {
         cout << "Integer: " << i << endl;
     }
-    void show(double d) {
+    void show(double d)
+    {
         cout << "Double: " << d << endl;
     }
 };
 
-int main() {
+int main()
+{
     Print p;
     p.show(5);
     p.show(5.5);
