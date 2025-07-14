@@ -19,4 +19,7 @@ int main()
     Demo d;
     return 0;
 }
-/**/
+/*
+output:
+
+*/
