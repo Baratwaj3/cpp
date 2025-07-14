@@ -21,3 +21,6 @@ int main()
     p.show(5.5);
     return 0;
 }
+/*
+output:
+*/
