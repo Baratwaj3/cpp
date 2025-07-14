@@ -22,5 +22,7 @@ int main()
     return 0;
 }
 /*
-output:
+Output:
+Integer: 5
+Double: 5.5
 */
