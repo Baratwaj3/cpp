@@ -1,17 +1,21 @@
 #include <iostream>
 using namespace std;
 
-class Demo {
+class Demo
+{
 public:
-    Demo() {
+    Demo()
+    {
         cout << "Constructor Called\n";
     }
-    ~Demo() {
+    ~Demo()
+    {
         cout << "Destructor Called\n";
     }
 };
 
-int main() {
+int main()
+{
     Demo d;
     return 0;
 }
