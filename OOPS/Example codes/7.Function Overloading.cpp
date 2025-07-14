@@ -23,6 +23,8 @@ int main()
 }
 /*
 Output:
+
 Integer: 5
 Double: 5.5
+
 */
