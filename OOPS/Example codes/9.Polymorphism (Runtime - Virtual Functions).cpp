@@ -1,22 +1,27 @@
 #include <iostream>
 using namespace std;
 
-class Base {
+class Base
+{
 public:
-    virtual void print() {
+    virtual void print()
+    {
         cout << "Base class\n";
     }
 };
 
-class Derived : public Base {
+class Derived : public Base
+{
 public:
-    void print() override {
+    void print() override
+    {
         cout << "Derived class\n";
     }
 };
 
-int main() {
-    Base* b;
+int main()
+{
+    Base *b;
     Derived d;
     b = &d;
     b->print(); // Calls Derived's print()
