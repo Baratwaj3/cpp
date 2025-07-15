@@ -31,6 +31,6 @@ int main()
     return 0;
 }
 /*
-output:
-
+Output:
+4 + 6i
 */
