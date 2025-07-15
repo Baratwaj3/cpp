@@ -24,6 +24,6 @@ int main()
     Base *b;
     Derived d;
     b = &d;
-    b->print(); // Calls Derived's print()
+    b->print();     // Calls Derived's print()
     return 0;
 }
