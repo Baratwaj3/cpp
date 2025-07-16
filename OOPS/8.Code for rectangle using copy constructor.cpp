@@ -59,4 +59,9 @@ int main()
 }
 /*
 output:
+Copied from r1:
+Length: 9
+Breadth: 3
+Area: 27
+Perimeter: 24
 */
