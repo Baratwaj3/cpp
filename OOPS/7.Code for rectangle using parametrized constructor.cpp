@@ -50,5 +50,9 @@ int main()
     return 0;
 }
 /*
-
+output :
+Length: 12
+Breadth: 6
+Area: 72
+Perimeter: 36
 */
