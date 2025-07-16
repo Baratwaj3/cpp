@@ -46,8 +46,8 @@ public:
 
 int main()
 {
-    Rectangle r1(9, 3);   // Original object
-    Rectangle r2 = r1;    // Copy constructor
+    Rectangle r1(9, 3); // Original object
+    Rectangle r2 = r1;  // Copy constructor
 
     cout << "Copied from r1:" << endl;
     cout << "Length: " << r2.getlength() << endl;
