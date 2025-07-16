@@ -8,7 +8,7 @@ private:
     int breadth;
 
 public:
-      // Non-parameterized constructor
+    // Non-parameterized constructor
     Rectangle()
     {
         length = 0;
