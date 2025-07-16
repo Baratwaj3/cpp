@@ -40,7 +40,7 @@ public:
 
 int main()
 {
-    Rectangle r;  // non-parameterized constructor
+    Rectangle r; // non-parameterized constructor
     r.setlength(8);
     r.setbreadth(4);
 
