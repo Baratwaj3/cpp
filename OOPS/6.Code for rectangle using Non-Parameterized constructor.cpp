@@ -53,5 +53,8 @@ int main()
 }
 /*
 output:
-
+Length: 8
+Breadth: 4
+Area: 32
+Perimeter: 24
 */
